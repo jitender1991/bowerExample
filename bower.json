@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "version" :"0.1.1",
+  "authors": [
+    "jitendrasingh <jitendra1.singh@paytm.com>"
+  ],
+  "description": "custum bower url",
+  "main": "basicBower.js",
+  "keywords": [
+    "example"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
