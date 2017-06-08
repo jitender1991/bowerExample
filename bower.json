@@ -1,6 +1,6 @@
 {
   "name": "example",
-  "version" :"v0.1.1",
+  "version" :"0.1.1",
   "authors": [
     "jitendrasingh <jitendra1.singh@paytm.com>"
   ],
@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "homepage": "",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
